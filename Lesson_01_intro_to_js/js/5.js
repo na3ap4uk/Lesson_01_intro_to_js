@@ -1,4 +1,4 @@
-'use strict!';
+'use strict';
 
 (function(){
 var i = Math.ceil(Math.random()*100).toString();
